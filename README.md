@@ -1,8 +1,8 @@
 # Quantum-Computing
 
-## Libraries Explored
+## Documentation Explored
 * IBM Qiskit
 * D-wave
 
-Use case
+## Use case
 * factorization problem 
